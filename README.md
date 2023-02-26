@@ -3,12 +3,12 @@
 Briefly summarize the DriverPass project.
 Who was the client? What type of system did they want you to design?
 
-The DriverPass application, which is an implementation of an online driving school is the vision of the owner, Liam, who wants to create the instructional application that allows students to sign up, take driving practice exams and eventually pass the driving exam.
+The DriverPass application, which is an implementation of an online driving school, is the vision of the owner, Liam, who wants to create an instructional application that allows students to sign up, take driving practice exams and eventually helps to enable the student to pass the driving exam.
 The system should allow scheduling appointments over the internet and automatic password reset. Liam wants to be connected to the DMV to stay up to date with changes in their rules and policies.
 
 What did you do particularly well?
 
-I feel that the description of the design was accomplished well. The use of the object and process models allowed me to envision the possible app implementations and constraints that exist in a design of this type.
+I feel that the description of the design was accomplished well. The use of the object and process models allowed me to envision the possible app implementations and constraints that exist in a design of this type. I think that all of the various aspect were accomplished well.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? 
 
@@ -20,7 +20,7 @@ When designing a system, it's important to consider the user's needs because ult
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-Once the user needs have been identified, I can use this information to create the application design. The system should be built in such a way that it is easy to use, meets the user's needs, and is accessible to all users.
+Once the user needs are identified, I use the information and begin to create the design for the application. The application, ideally, should be built in a way that makes it easy to use, meets the user's needs, and is accessible to everyone who uses the application.
 
 
 
